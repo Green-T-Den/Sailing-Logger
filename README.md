@@ -1,2 +1,2 @@
 # Sailing-Logger
-A website which allows users to log their sailing expeditions
+A website/app which allows users to log their sailing expeditions
